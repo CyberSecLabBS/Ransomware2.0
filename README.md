@@ -8,3 +8,7 @@ Per maggiori istruzioni fare riferimento al file Relazione.pdf e attacco.ipynb
 Distributed under MIT licence
 
 https://opensource.org/licenses/MIT
+
+Relazione.pdf distributed under CC0
+
+http://creativecommons.org/publicdomain/zero/1.0/
